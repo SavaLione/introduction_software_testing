@@ -200,3 +200,11 @@
 2. Test Stubs
 3. Fake Objects
 4. True
+
+## Test Doubles: Output
+1. Test doubles
+2. True
+3. Required fill-in values are being created for the system under test
+4. Mock; Spy
+5. False
+6. True
