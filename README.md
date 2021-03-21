@@ -184,3 +184,13 @@
 1. True
 2. Problem is insurmountable
 3. Close
+
+# Week 4
+## Test Doubles: Introduction
+1. False
+2. Test Doubles
+3. Dummy Objects
+4. Test Stubs
+5. Mock Objects
+6. False
+7. Create test doubles and inspect interactions
