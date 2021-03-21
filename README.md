@@ -115,3 +115,11 @@
 - [x] Close connection after testing is done.
 12. in a separate class, and for each method in the program we associated a test case(s) to test the correctness of the method.
 13. All of the above
+
+# Week 3
+## What is a Test Plan?
+1. False
+2. Customer Acceptance Test
+3. False
+4. Reliability
+5. Traceability Report
