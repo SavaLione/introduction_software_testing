@@ -153,3 +153,7 @@
 5. Motivation
 6. Risk mitigation
 7. True
+
+## Software Defect Reports
+1. True
+2. Ignore the bug
