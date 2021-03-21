@@ -194,3 +194,9 @@
 5. Mock Objects
 6. False
 7. Create test doubles and inspect interactions
+
+## Test Doubles: Input
+1. Dummy objects; Test stubs
+2. Test Stubs
+3. Fake Objects
+4. True
