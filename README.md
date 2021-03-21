@@ -130,3 +130,11 @@
 3. False
 4. False
 5. Testers
+
+## Stages of Software Testing Process
+1. True
+2. Module integration testing
+3. True
+4. Design Verification Testing
+5. True
+6. Loop Invariants
