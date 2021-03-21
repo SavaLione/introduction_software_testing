@@ -69,3 +69,8 @@
 5.
 - [x] If a program error is transient (it happens and is masked out by other code), you might not be able to "see" it and the test may pass.
 - [x] Often programs are stateful - that is, a test may trigger an error, but it only becomes visible as an output if a long sequence of steps are executed, whereas it might be immediately visible by examining internal state.
+
+## The V-Model Quiz
+1. A software development model that pairs different stages of software development with the appropriate testing procedure. These tests are later used when checking the verification of each phase of the software.
+2. Module Testing.
+3. Verification Testing.
