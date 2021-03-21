@@ -123,3 +123,10 @@
 3. False
 4. Reliability
 5. Traceability Report
+
+## Importance of a Good Test Plan
+1. It will list any missing requirements
+2. True
+3. False
+4. False
+5. Testers
