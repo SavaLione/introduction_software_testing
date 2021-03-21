@@ -74,3 +74,8 @@
 1. A software development model that pairs different stages of software development with the appropriate testing procedure. These tests are later used when checking the verification of each phase of the software.
 2. Module Testing.
 3. Verification Testing.
+
+## Validation and Verification in the "V-Model" Quiz
+1. A and B
+2. The system has passed all tests from unit testing through verification testing and is now ready for validation testing.
+3. True.
