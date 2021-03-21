@@ -162,3 +162,8 @@
 1. All of the above
 2. False
 3. True
+
+## Software Defect Reports: Reporting
+1. Let developers decide whether to report defect
+2. All of the above
+3. True
