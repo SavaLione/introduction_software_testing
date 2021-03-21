@@ -157,3 +157,8 @@
 ## Software Defect Reports
 1. True
 2. Ignore the bug
+
+## Software Defect Reports: Analysis
+1. All of the above
+2. False
+3. True
