@@ -167,3 +167,15 @@
 1. Let developers decide whether to report defect
 2. All of the above
 3. True
+
+## Software Defect Reports: Report Content
+1. Associated defect reports
+2. Identification Information
+3. Description of the problem
+4. Status Indicator
+5. False
+6. False
+7. Low
+8. High
+9. Do not fix
+10. True
