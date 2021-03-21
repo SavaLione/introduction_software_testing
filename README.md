@@ -83,3 +83,10 @@
 ## Structural Testing
 1. White-box testing
 2. The goal of testing is to achieve 100% structural coverage to ensure the absence of bugs.
+
+## Mutation Testing
+1. With mutation testing, you can know how much of the code structure you covered.
+2.
+- [x] The mutation operator introduces a syntactic change to the program so that the mutant cannot be compiled.
+- [x] You only create one mutant for mutation testing.
+3. She should write more test cases.
