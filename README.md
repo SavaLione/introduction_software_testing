@@ -90,3 +90,28 @@
 - [x] The mutation operator introduces a syntactic change to the program so that the mutant cannot be compiled.
 - [x] You only create one mutant for mutation testing.
 3. She should write more test cases.
+
+## On Basic Testing Terminology, Dependability, and Testing Principles
+1. The tests may all pass but the program may still be incorrect
+2.
+- [x] The program is incorrect
+- [x] The test itself is incorrect
+3. No
+4. Implementation of the software.
+5. False
+6. the program reaches a state where the error manifests.
+7. No
+8.
+- [x] certainly robust
+- [x] certainly incorrect
+9. white-box
+10.
+- [x] It can sometimes find errors that are not actively looked for, when (for example) a program crashes during execution of a test case.
+- [x] It documents system behavior.
+- [x] It is difficult to do rigorously.
+- [x] It checks the whole system, including software that you didn't write.
+11.
+- [x] Remove data you added after testing is done.
+- [x] Close connection after testing is done.
+12. in a separate class, and for each method in the program we associated a test case(s) to test the correctness of the method.
+13. All of the above
