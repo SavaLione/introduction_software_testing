@@ -30,3 +30,12 @@
 4. A good idea. Test cases should be built based on the expected output and should not be influenced by the implementation.
 5. All test cases need to be run including the new one.
 
+# Week 2
+## Dependability Quiz
+1. 2,1,3
+2. error removal
+3. False
+4. False
+5. True
+6. False
+7. False
