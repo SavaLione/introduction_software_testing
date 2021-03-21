@@ -18,3 +18,7 @@
 3. ```Remove data you added after testing is done``` and ```Close connection after testing is done```
 4. Software output is checked by an oracle.
 
+## Automation: Using a Test Framework
+1. ```They allow automated``` and ```They run all test cases``` and ```They allow programmers```
+2. all
+3. ```In a separate class```
