@@ -144,3 +144,12 @@
 2. False
 3. All of the above
 4. Independent; Isolated
+
+## Risk Based Test Planning
+1. Risk mitigation
+2. risk = impact * likelihood
+3. Risk appetite
+4. Severity of damage
+5. Motivation
+6. Risk mitigation
+7. True
