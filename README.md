@@ -22,3 +22,11 @@
 1. ```They allow automated``` and ```They run all test cases``` and ```They allow programmers```
 2. all
 3. ```In a separate class```
+
+## Automation: Writing JUnit Tests
+1. all
+2. The main method.
+3. False.
+4. A good idea. Test cases should be built based on the expected output and should not be influenced by the implementation.
+5. All test cases need to be run including the new one.
+
