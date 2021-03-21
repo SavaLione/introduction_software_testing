@@ -179,3 +179,8 @@
 8. High
 9. Do not fix
 10. True
+
+## Software Defect Reports: Track, Retest, and Close
+1. True
+2. Problem is insurmountable
+3. Close
